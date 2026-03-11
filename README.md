@@ -21,13 +21,14 @@ MKE-B03 Vietduino IO Shield giúp người dùng dễ dàng đấu nối mà kh�
 ![MKE-B03 Vietduino_IO_Shied](/extras/MKE-B03_0.png)
 
 ## Ứng dụng:
-- Học tập lập trình IoT với ESP32-S3
+- Học tập lập trình nhúng với Vietduino
 - Kết nối nhanh hệ sinh thái cảm biến MakerEdu
 - Dự án robot và STEM
 - Hệ thống điều khiển và thu thập dữ liệu nhiều cảm biến
  ## Hình ảnh sản phẩm
 ![MKE-B03 Vietduino_IO_Shied](/extras/MKE-B03_1.png)
 ![MKE-B03 Vietduino_IO_Shied](/extras/MKE-B03_2.png)
+
 
 
 
