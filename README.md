@@ -20,7 +20,7 @@ MKE-B03 Vietduino IO Shield giúp người dùng dễ dàng đấu nối mà kh�
 ## Kích thước
 ![MKE-B03 Vietduino_IO_Shied](/extras/MKE-B03_0.png)
 
-## Ứng dụng:
+## Ứng dụng
 - Học tập lập trình nhúng với Vietduino
 - Kết nối nhanh hệ sinh thái cảm biến MakerEdu
 - Dự án robot và STEM
@@ -30,5 +30,5 @@ MKE-B03 Vietduino IO Shield giúp người dùng dễ dàng đấu nối mà kh�
 ![MKE-B03 Vietduino_IO_Shied](/extras/MKE-B03_1.png)
 ![MKE-B03 Vietduino_IO_Shied](/extras/MKE-B03_2.png)
 
-## Miễn trừ trách nhiệm:
+## Miễn trừ trách nhiệm
 Sản phẩm này là bo mạch phát triển được thiết kế phục vụ cho mục đích nghiên cứu, thử nghiệm và học tập, không phải là một thiết bị hoàn chỉnh. Trong trường hợp người dùng kết hợp mạch này với các linh kiện, thiết bị hoặc phần mềm khác để tạo thành một hệ thống hoặc sản phẩm hoàn chỉnh, mọi chức năng và tính phù hợp của sản phẩm sau cùng đều thuộc trách nhiệm của người dùng.
