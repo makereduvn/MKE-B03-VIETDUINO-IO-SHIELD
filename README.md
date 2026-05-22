@@ -1,5 +1,6 @@
 # Mạch đế kết nối MKE-B03 Vietduino IO Shield
 
+## Giới thiệu
 Mạch đế kết nối MKE-B03 Vietduino IO Shield là bo mở rộng chân chuyên dụng cho các mạch [Vietduino](https://github.com/makereduvn/VIETDUINO), được phát triển bởi MakerEDU nhằm giúp việc kết nối cảm biến và module chức năng trở nên nhanh chóng, trực quan và an toàn hơn. Mạch sử dụng chuẩn kết nối rào đực 2.54 mm (0.1″ male header) linh hoạt với bố trí màu sắc rõ ràng:
 
 - Vàng, Xanh Lá: chân tín hiệu
@@ -9,7 +10,6 @@ Mạch đế kết nối MKE-B03 Vietduino IO Shield là bo mở rộng chân ch
 MKE-B03 Vietduino IO Shield giúp người dùng dễ dàng đấu nối mà không lo nhầm cực khi triển khai các dự án học tập STEM, IoT hoặc robot. Toàn bộ các chân GPIO của mạch Vietduino được đưa ra đầy đủ kèm theo cặp nguồn 5V – GND, giúp cấp nguồn trực tiếp cho cảm biến và module ngoại vi. Ngoài ra, mạch còn tích hợp nhiều cổng I2C với chuẩn màu riêng biệt (GND - Đen, 5V- Đỏ, SDA - Vàng, SCL - Xanh Lá), thuận tiện cho việc mở rộng hệ thống với các module, cảm biến giao tiếp I2C.
 
 ## Thông số kỹ thuật
-
 - Tương thích: [Vietduino](https://github.com/makereduvn/VIETDUINO)
 - Chuẩn chân kết nối: rào đực 2.54 mm (0.1″ male header)
 - Đưa ra đầy đủ các chân GPIO của mạch Vietduino kèm theo cặp nguồn cấp 5V - GND giúp cấp nguồn trực tiếp cho cảm biến và module ngoại vi.
@@ -32,6 +32,3 @@ MKE-B03 Vietduino IO Shield giúp người dùng dễ dàng đấu nối mà kh�
 
 ## Miễn trừ trách nhiệm:
 Sản phẩm này là bo mạch phát triển được thiết kế phục vụ cho mục đích nghiên cứu, thử nghiệm và học tập, không phải là một thiết bị hoàn chỉnh. Trong trường hợp người dùng kết hợp mạch này với các linh kiện, thiết bị hoặc phần mềm khác để tạo thành một hệ thống hoặc sản phẩm hoàn chỉnh, mọi chức năng và tính phù hợp của sản phẩm sau cùng đều thuộc trách nhiệm của người dùng.
-
-
-
